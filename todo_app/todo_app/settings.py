@@ -30,6 +30,9 @@ ALLOWED_HOSTS = [
     'localhost',
     '127.0.0.1',
     '3.144.181.30',
+    'http://todos-app-np.s3-website.us-east-2.amazonaws.com/',
+    'https://ec2-3-144-181-30.us-east-2.compute.amazonaws.com/'
+
 ]
 
 
