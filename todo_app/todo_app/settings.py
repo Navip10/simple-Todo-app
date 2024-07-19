@@ -29,6 +29,7 @@ ALLOWED_HOSTS = [
     '18.224.16.217',  # EC2 instance's IP address 
     'localhost',
     '127.0.0.1',
+    '3.144.181.30',
 ]
 
 
